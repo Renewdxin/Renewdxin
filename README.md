@@ -13,9 +13,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 🌱 I’m currently learning Go, Java
-
 📫 How to reach me: cissyrenxin@icloud.com
 
-![我的 GitHub 数据](https://github-readme-stats.vercel.app/api?username=Renewdxin&theme=dark&show_icons=true)
+
+
+[Renewdxin's Github](https://github-readme-stats.vercel.app/api?username=Renewdxin&show_icons=true&theme=dark)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Renewdxin&theme=tokyonight" width="37%" alt="gueFDF's Top Languages">
+[![Guiqixin1](https://github-profile-trophy.vercel.app/?username=Renewdxin)](https://github.com/ryo-ma/github-profile-troph)
+
 ![leetcode](https://stats.justsong.cn/api/leetcode/?username=magical-gagarintr3&cn=true)
 ![csdn](https://stats.justsong.cn/api/csdn?id=m0_73976305&theme=radical)
