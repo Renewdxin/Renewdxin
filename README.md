@@ -1,29 +1,19 @@
-### Hi there 👋
+### Hi there 👋  
 
-<!--
-**Renewdxin/Renewdxin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Welcome to my GitHub! I'm a backend developer focusing on Go programming, distributed systems, and system architecture. 🚀  
 
 ---
 
-🌱 **I’m currently learning:**  
-- Go
-- Java
+🌱 **Currently Exploring:**  
+- Go and distributed system design  
+- JVM internals and advanced algorithms  
 
-📫 **How to reach me:**  
-- Email: [cissyrenxin@icloud.com](mailto:cissyrenxin@icloud.com)
+🔭 **Some Projects:**  
+- A distributed game framework for card games using WebSocket and NATS.  
+- A lightweight JVM implemented in Go to deepen my understanding of system internals.  
 
-🌐 **Visit my website:**  
-- [My Website](https://renewdxin.github.io/)
+🌐 **Explore More:**  
+- [My Website](https://blog.renxin.space/)  
 
 ---
 
@@ -36,12 +26,8 @@ Here are some ideas to get you started:
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Renewdxin&theme=tokyonight&layout=compact" width="100%" alt="Renewdxin's Top Languages">
     </td>
   </tr>
-  <tr>
-    <td>
-      <img src="https://stats.justsong.cn/api/leetcode/?username=magical-gagarintr3&cn=true" alt="Renewdxin's LeetCode Stats">
-    </td>
-    <td>
-      <img src="https://stats.justsong.cn/api/csdn?id=m0_73976305&theme=radical" alt="Renewdxin's CSDN Stats">
-    </td>
-  </tr>
 </table>
+
+---
+
+⚡ **Fun fact:** I enjoy designing scalable systems and optimizing performance!  
