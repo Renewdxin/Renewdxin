@@ -5,8 +5,8 @@ Welcome to my GitHub! I'm a backend developer focusing on Go programming, distri
 ---
 
 🌱 **Currently Exploring:**  
-- Go and distributed system design  
-- JVM internals and advanced algorithms  
+- AI Agent 
+- How to get a Job
 
 🔭 **Some Projects:**  
 - A distributed game framework for card games using WebSocket and NATS.  
